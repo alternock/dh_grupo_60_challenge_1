@@ -1,0 +1,150 @@
+=======================================================================================================
+  
+
+1) "fooziman" =>  mostrar el total de letras
+
+
+2) "fooziman" =>  mostrar que "fooziman" es de tipo string
+
+
+3) "fooziman" =>  Fooziman
+
+
+4) "fooziman" =>  foozimaN
+
+
+5) "fooziman" =>  Foozim@N
+
+
+=======================================================================================================
+
+
+6) "fooziman" => "oozima"
+
+
+7) "fooziman" =>  f00z1man
+
+
+8) "fooziman" =>  F00z1m@N
+
+
+9) "fooziman" =>  ["f","o","o","z","i","m","a,"n"];
+
+
+10) "fooziman" , "bar" son string distintos y debes fucionarlos en 1 solo string =>  "fooziman bar" 
+
+
+=======================================================================================================
+
+
+11) "fooziman" reverse string =>   "namiz00f" 
+
+
+12) "fooziman" =>  "F--Z-M-N"
+
+
+13) con los loops for y while mostrar los números por terminal  =>  0,1,2,3,4,5
+
+
+14) con los loops for y while mostrar los números por terminal  =>  1,2,3,4,5
+
+
+15) con los loops for y while mostrar los números por terminal  =>  5,4,3,2,1
+
+
+=======================================================================================================
+
+
+16) con los loops for, while y map mostrar los números por terminal  =>  1,3,5,7
+
+
+17) con los loops for, while y map mostrar los números por terminal  =>  7,5,3,1
+
+
+18) con los loop for y while iterar cada una de las letras del string "fooziman"
+    debes pasar el string aun array para iterarlo letra por letra ["f","o","o","z","i","m","a,"n"] 
+    // 
+    => "f" "o" "o" "z" "i" "m" "a "n"
+
+
+19) ["foo", "bar", "baz", "qux", "echo"] =>  ["Foo", "Bar", "Baz", "Qux", "Echo"]                                                                                  
+
+
+20) ["foo", "bar", "baz", "qux", "echo"] =>  ["b@r", "b@z", "QUX"]
+
+
+=======================================================================================================
+
+
+21) ["foo", "bar", "baz", "qux", "echo"] =>  mostrar el total de letras que inician con b
+
+
+22) ["foo", "bar", "baz", "qux", "echo"] identificar los indices impares y retornarlos en mayúscula 
+    la formula es (n % 2 == 1) 
+     //
+     =>  ["foo", "BAR", "baz", "QUZ", "echo"]
+
+
+23) ["foo", "bar", "baz", "qux", "echo"] , ["delta", "bravo", "alfa"]
+    //
+    =>  ["foo", "bar", "baz", "qux", "echo", "delta", "bravo", "alfa"]
+
+
+24) ["foo", "bar", "baz", "qux", "echo"] , ["delta", "bravo", "alfa"] 
+    //
+    =>  ["foo", "bar", "baz", "qux", "alfa", "bravo", "delta", "echo"]
+
+
+25) ["foo", "bar", "baz", "qux", "echo"] =>  []
+                                                                   
+ 
+=======================================================================================================
+
+
+26) [1,2,3,4,5] =>   ["uno","dos","tres","cuatro","cinco"]
+
+
+27) [100,200,300,400,500] =>  1500
+
+
+28) [100,200,300,400,500]  clonar cada uno de los elementos en un nuevo array emplear 3 formas 
+     de hacerlo mediante spread operator y con los loops for, while                                    
+    //
+    => [100,200,300,400,500]
+
+
+29) [100,200,300,400,500] , [-2,-1,0,600,700] =>  [-2,-1,0,100,200,300,400,500,600,700] 
+
+
+30) [{number:100},{number:200},{number:300},{number400},{number:500}]  ,  {number:600} 
+    //                                                               
+    agregar el objeto al array e iterar con los loops for, while, map 
+    //
+    =>  [100,200,300, 400,500,600]
+
+                                                                   
+=======================================================================================================
+
+                                                                 
+31) [500,100,300,400,200] retornar el valor minimo del array emplear el uso de loops for, while y map       //
+    =>  100  
+
+
+32) [500,100,300,400,200] retornar el valor maximo del array emplear el uso de loops for, while y map      //
+    =>  500  
+
+
+33) [500,100,300,400,200] retornar los valores min y max del array emplear el uso de loops
+   // 
+   for, while y map =>  [100, 500]
+
+
+34) [500,100,300,400,200] retornar los valores del array que sean mayor e igual a 300 
+    //
+    emplear el uso de loops for, while y map =>  300, 400, 500
+
+
+35) [500,100,300,400,200] retornar los valores del array ordenados =>  [100,200,300,400,500]
+
+
+=======================================================================================================
